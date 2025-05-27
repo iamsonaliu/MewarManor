@@ -56,7 +56,17 @@ An elegant multi-page restaurant website built using **HTML**, **Bootstrap 5**, 
 3. All styling is CDN-based, so no setup or package installation required.
 
 ---
+## Images
+**_Home Page_**
+![Home Page](Screenshot 2025-05-27 092620.png)
 
+**_Menu Page_**AS
+![Menu Page](Screenshot 2025-05-27 092653.png)
+
+**_Booking Page_**
+![Booking Page](Screenshot 2025-05-27 092712.png)
+
+---
 ## 📌 Future Enhancements
 
 - Add backend functionality for booking form using Google APIs.
