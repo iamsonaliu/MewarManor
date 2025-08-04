@@ -93,7 +93,7 @@ An elegant multi-page restaurant website built using **HTML**, **Bootstrap 5**, 
 ## 🧑‍🍳 Author
 
 Created by [![SONALI UPADHYAY](https://img.shields.io/badge/SONALI-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/sonali-upadhyay-a75660283/)
-[![MOHIT BOHRA](https://img.shields.io/badge/MOHIT-Profile-blue?style=for-the-badge)]((https://www.linkedin.com/in/mohit-bohra-b30a21251))
+[![MOHIT BOHRA](https://img.shields.io/badge/MOHIT-Profile-blue?style=for-the-badge)]((https://www.linkedin.com/in/mohit-bohra-b30a21251/))
 
 ---
 Feel free to connect with me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-upadhyay-a75660283/)](https://www.linkedin.com/in/sonali-upadhyay-a75660283/)
